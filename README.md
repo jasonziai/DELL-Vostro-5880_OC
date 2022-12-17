@@ -26,7 +26,7 @@ BUG:
 
 1.MacOS安装版本为Ventura 13.0，其他版本未测
 
-2.因戴尔oem主板简陋，需用ru.efi解锁cfg、dvmt64M才能正常使用，修改地址分别为：CpuSetup 0x3E值改成0 SaSetup 0xF5值改为2
+2.因戴尔oem主板设置缺失，需用ru.efi解锁cfg、dvmt64M才能正常使用，修改地址分别为：CpuSetup 0x3E值改成0 SaSetup 0xF5值改为2
 
 3.自行定制三码
 
