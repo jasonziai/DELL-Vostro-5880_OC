@@ -1,7 +1,7 @@
 # DELL-Vostro-5880_OC
 机型：Dell Vostro 5880-China HDD Protection
 
-CPU: Intel i5 10400
+CPU：Intel i5 10400
 
 核显：UHD630
 
