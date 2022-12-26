@@ -10,13 +10,13 @@ CPU：Intel i5 10400
 
 独显：Nvdia GT710（鸡肋，直接拔了）
 
-内存：镁光8g*2
+内存：Micron 8g*2
 
-硬盘：磊科256g sata
+硬盘：Netcore 256g SATA
 
-网卡：219v
+板载网卡：Intel I-219v
 
-声卡：alc256
+板载声卡：Realtek ALC 256
 
 ___无线网卡：BCM94352z（另购）___
 
