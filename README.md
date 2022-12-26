@@ -18,7 +18,8 @@ CPU：Intel i5 10400
 
 板载声卡：Realtek ALC 256
 
-~~无线网卡：Realtek 8723DE~~
+无线网卡：
+~~Realtek 8723DE~~
 ___替换为BCM94352z（为实现第7项功能）___
 
 
