@@ -52,7 +52,7 @@ ___替换为BCM94352z（为实现第7项功能）___
 
 1.MacOS安装版本为Ventura 13.0，其他版本未测
 
-2.因戴尔OEM主板设置缺失，需用ru.efi解锁cfg、修改dvmt 64M才能正常使用，修改地址分别为：CpuSetup 0x3E值改成00 SaSetup 0xF5值改为02      
+2.主板设置缺失，需用ru.efi解锁cfg、修改dvmt 64M才能正常使用，修改地址分别为：CpuSetup 0x3E值改成00 SaSetup 0xF5值改为02      
   [修改方法链接](https://zhuanlan.zhihu.com/p/121655468)
 
 3.自行定制三码
