@@ -8,8 +8,9 @@ CPU：Intel i5 10400
 
 核显：UHD630
 
-独显：Nvdia GT710
-_（鸡肋，直接拔了）_
+独显：
+~~Nvdia GT710~~
+_鸡肋，直接拔了_
 
 内存：Micron 8g*2
 
